@@ -84,7 +84,8 @@ lib/
 
 A short video demonstrating the app's features.
 
-https://github.com/user-attachments/assets/26c4f898-1e12-468d-b1c8-9d122b6fe1c5
+https://github.com/user-attachments/assets/a85e738e-f62a-445a-ba12-1afb28428a98
+
 
 
 ## License
